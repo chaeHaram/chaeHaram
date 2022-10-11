@@ -3,7 +3,7 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/chaeHaram">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeHaram&layout=compact&show_owner=ture&hide_title=ture&theme=nord&hide=HTML&hide=PHP" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeHaram&layout=compact&show_owner=ture&hide_title=ture&theme=nord&hide=HTML_PHP" />
   </a>
 </p>
 <h3 align="center">💡 My Git Stats 💡</h3>
