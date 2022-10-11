@@ -9,6 +9,6 @@
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/chaeHaram">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaeHaram&hide_title=ture&include_all_commits=ture&show_icons=ture&theme=nord&hide=Total_PRs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaeHaram&hide_title=ture&include_all_commits=ture&show_icons=ture&theme=nord&hide=TotalPRs, Contributed_to" />
   </a>
 </p>
