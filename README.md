@@ -16,6 +16,7 @@ Techs i've used least one <br/>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 
+</br>
 <a href="https://github.com/chaeHaram">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeHaram&layout=compact&show_icons=true&show_owner=ture&theme=radical&hide=HTML" />
 </a>
@@ -25,6 +26,7 @@ Techs i've used least one <br/>
   <a href = "https://instagram.com/kicked_uk98"> <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
     <img alt="Gmail" src 
 ="https://img.shields.io/badge/chaeHaram0217@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </br>
   <a href="https://github.com/chaeHaram">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaeHaram&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=radical" />
   </a>
