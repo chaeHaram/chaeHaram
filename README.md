@@ -6,7 +6,7 @@
   🇰🇷
 </p>
 
-<h3 align="center"> 🌈 My SMS 🌈 </h3>
+<h3 align="center"> 🌈 My SNS 🌈 </h3>
 <p align="center">
   <a href="https://www.instagram.com/kicked_uk98/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/kicked_uk98/"/></a>&nbsp
 </p>
