@@ -4,10 +4,9 @@
   
 ### 👨🏻‍💻iOS developer👨🏻‍💻
 
-  Hello World! 
-  I develop iOS using Swift.
-  I will be a constantly evolving developer.
-</br>
+  Hello World! </br>
+  I develop iOS using Swift. </br>
+  I will be a constantly evolving developer. </br>
 
 ## 🖥 Tech Stacks 🖥
 
@@ -38,4 +37,5 @@ Techs i've used least one <br/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FchaeHaram&count_bg=%23747474&title_bg=%23393939&icon=git.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false"/></a>
 
 </div>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
