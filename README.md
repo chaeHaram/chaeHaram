@@ -9,6 +9,6 @@
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/chaeHaram">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaeHaram&count_private=true&custom_title=chaeHaram&nbsp;status&nbsp;🧞‍♂️&bg_color=45,0094cf,ffe894&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaeHaram&count_private=true&custom_title=chaeHaram(https://github.com/anuraghazra/github-readme-stats" />
   </a>
 </p>
