@@ -22,7 +22,7 @@
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/chaeHaram">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaeHaram&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaeHaram&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=radical" />
   </a>
 </p>
 <br>
