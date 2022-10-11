@@ -1,12 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld&fontSize=50&animation=twinkling)
 
 <h2 align="center">👨🏻‍💻iOS developer👨🏻‍💻</h2>
-<p align="center">
-  🇰🇷
-</p>
+
 
 <h2 align="center">🖥 Tech Stacks 🖥</h2>
-Techs i've used least one <br/> 
 
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
