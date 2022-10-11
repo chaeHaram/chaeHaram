@@ -4,19 +4,18 @@
 
 
 <h2 align="center">🖥 Tech Stacks 🖥</h2>
-
-
-<h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/chaeHaram">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeHaram&layout=compact&show_icons=true&show_owner=ture&theme=radical&hide=HTML" />
   </a>
 </p>
 
-<h3 align="center"> 🌈 It's Me 🌈 </h3>
+<h2 align="center"> 🌈 It's Me 🌈 </h2>
 <p align="center">
   <a href = "https://github.com/chaeHaram"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   <a href = "https://instagram.com/kicked_uk98"> <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+    <img alt="Gmail" src 
+="https://img.shields.io/badge/chaeHaram0217@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 </p>
 <p align="center">
   <a href="https://github.com/chaeHaram">
