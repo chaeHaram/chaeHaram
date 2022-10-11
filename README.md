@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20🖐I'm Haram!&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello🖐%20I'm%20Haram!&fontSize=50&animation=twinkling)
 
 <h2 align="center">👨🏻‍💻iOS developer👨🏻‍💻</h2>
 
