@@ -1,16 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello🖐%20I'm%20Haram!&fontSize=50&animation=twinkling)
 
 <div align="center">
-### 👨🏻‍💻iOS developer👨🏻‍💻
+  
+## 👨🏻‍💻iOS developer👨🏻‍💻
 
-Techs i've used least one <br/>
-  Hi there! I'm student of KIT.  
-  I develop games using Unity, Unreal Engine and any other languages.  
-  I am very active, I like to exercise and meet people.🦾🥂  
-  My dream is to create the best game in the world.😆
+  Hi there! I'm student of KKU.  
+  I develop iOS using Swift.
 </br>
 
 ## 🖥 Tech Stacks 🖥
+
+Techs i've used least one <br/>
 <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> 
 <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>  
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
