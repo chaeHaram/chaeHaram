@@ -1,21 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!%20🥳&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi👋, I'm haramChae!🤗&fontSize=50&animation=twinkling)
 
-<h2 align="center"> Hi👋, I'm haramChae!🤗</h2>
-<h3 align="center">I am junior iOS developer</h3>
+<h2 align="center">👨🏻‍💻iOS developer👨🏻‍💻</h2>
 <p align="center">
   🇰🇷
 </p>
 
-<h3 align="center"> 🌈 My SNS 🌈 </h3>
-<p align="center">
-  <a href="https://www.instagram.com/kicked_uk98/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/kicked_uk98/"/></a>&nbsp
-</p>
+<h2 align="center">🖥 Tech Stacks 🖥</h2>
+
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/chaeHaram">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeHaram&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=radical&hide=HTML" />
   </a>
 </p>
+
+<h3 align="center"> 🌈 It's Me 🌈 </h3>
+<p align="center">
+  <a href="https://www.instagram.com/kicked_uk98/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/kicked_uk98/"/></a>&nbsp
+</p>
+
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/chaeHaram">
