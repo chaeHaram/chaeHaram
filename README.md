@@ -13,13 +13,13 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/chaeHaram">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeHaram&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=HTML" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeHaram&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=cobalt&hide=HTML" />
   </a>
 </p>
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/chaeHaram">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaeHaram&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaeHaram&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=cobalt" />
   </a>
 </p>
 <br>
