@@ -24,7 +24,7 @@
 
 ## 🌈 It's Me 🌈
 
-  <a href = "https://github.com/chaeHaram"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <a href = "https://github.com/chaeHaram"><img alt="GitHub" src ="https://img.shields.io/badge/chaeHaram-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   <a href = "https://instagram.com/kicked_uk98"> <img alt="Instagram" src ="https://img.shields.io/badge/kicked_uk98-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
     <img alt="Gmail" src 
 ="https://img.shields.io/badge/chaeHaram0217@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
